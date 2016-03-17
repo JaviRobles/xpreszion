@@ -14,7 +14,7 @@
 ![foto2](2-reescalar-entre-1millon.png)
 
 
-###Step1: Normalize for gene/contig length
+###Step2: Normalize for gene/contig length
 
 *2.1* Calculate de reads per million for each replicate: to obtain __RPM__ (reads per milion value).
 
